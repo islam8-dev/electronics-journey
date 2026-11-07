@@ -16,7 +16,7 @@ analog amplifier and filter, an ADC, firmware in C, and a PCB.
 | Step | Topic | Status |
 | --- | --- | --- |
 | [Step 1](Step01) | Voltage divider and current divider | Done |
-| Step 2 | RC circuit and filters | Done |
+| [Step 2](Step02) | RC circuit and filters | Done |
 | Step 3 | Diode, LED and transistor as a switch | Planned |
 | Step 4 | Op-amp circuits (LM358) | Planned |
 | Step 5-8 | Embedded C: GPIO, PWM, interrupts, ADC, UART | Planned |
