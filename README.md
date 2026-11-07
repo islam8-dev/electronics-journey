@@ -1,5 +1,3 @@
-# electronics-journey
-My journey to create a digital thermometer 
 # Digital Thermometer: My Electronics Journey
 
 My journey to build a digital thermometer, step by step: circuit
